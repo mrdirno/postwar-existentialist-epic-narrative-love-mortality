@@ -1,0 +1,72 @@
+{
+  "book_id": "postwar-existentialist-epic-narrative-love-mortality",
+  "title": "The Silence That Follows",
+  "tagline": "A soldier returns from the trenches to a world that wants to forget, carrying a weight of memory that only love, and mortality, can shape.",
+  "target_words": 77667,
+  "actual_words": 77667,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Burden of Memory",
+    "The Search for Meaning After Trauma",
+    "Love as an Anchor in the Void",
+    "The Intimate Presence of Mortality"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Geometry of Trenches",
+      "words": 7060
+    },
+    {
+      "ch": 2,
+      "title": "A Loose, Shapeless Pattern",
+      "words": 7060
+    },
+    {
+      "ch": 3,
+      "title": "The New Axis of Quiet",
+      "words": 7060
+    },
+    {
+      "ch": 4,
+      "title": "A Silence Like a Substance",
+      "words": 7060
+    },
+    {
+      "ch": 5,
+      "title": "The Shuddering, Groaning Beast",
+      "words": 7060
+    },
+    {
+      "ch": 6,
+      "title": "The Throat of the West Wing",
+      "words": 7060
+    },
+    {
+      "ch": 7,
+      "title": "Thieves of Sacrament",
+      "words": 7060
+    },
+    {
+      "ch": 8,
+      "title": "The Clarifying Cold",
+      "words": 7060
+    },
+    {
+      "ch": 9,
+      "title": "A Cage Made of Words",
+      "words": 7060
+    },
+    {
+      "ch": 10,
+      "title": "The Long Inhalation",
+      "words": 7060
+    },
+    {
+      "ch": 11,
+      "title": "Blisters of a Different Earth",
+      "words": 7060
+    }
+  ]
+}
